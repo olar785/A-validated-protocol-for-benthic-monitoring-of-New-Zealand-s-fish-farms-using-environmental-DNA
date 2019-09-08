@@ -3,4 +3,4 @@ In January 2018, the Cawthron Institute was asked by a range of private and gove
 
 The bioinformatics pipeline used in this study is made publicly available under the 'Bioinformatics-pipeline-NZ-fish-farm-eDNA-monitoring' folder.
 
-The GenCodeIDs of bacterial and eukaryote indicators are available under the GenCodeID_Database.
+The GenCodeIDs of bacterial and eukaryote indicators are available under the 'GenCodeID_Database' folder.
